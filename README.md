@@ -1,5 +1,6 @@
 # API Description
-
+This API allows to create players and games for TicTacToe.  
+Needs connection string from IConfiguration in order to connect to database.
 
 <details>
 <summary>GET /api/v1/game/start</summary>
